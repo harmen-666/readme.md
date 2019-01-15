@@ -55,4 +55,5 @@ Over the winds
 They dwell in light
 Fly
 ")
+document.writeln(PAPA STALINNNN);
 document.readline();
