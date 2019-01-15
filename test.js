@@ -3,7 +3,7 @@ function herhaal (teller)
 {document.writeln(i+" keer");
 }
 }
-console.wrteln("Waters of chaos
+document.wrteln("Waters of chaos
 Have invaded all space
 The flood on earth again
 I have to find the whales
@@ -55,4 +55,4 @@ Over the winds
 They dwell in light
 Fly
 ")
-console.readline();
+document.readline();
